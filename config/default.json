@@ -1,0 +1,4 @@
+{
+  "mongoURI":"mongodb+srv://Xoom:BruggheBo@mernshopping.hcukg.mongodb.net/jwtAuth?retryWrites=true&w=majority",
+  "jwtSecret":"p66WeoneIPXlY9BmStjO5aRM7JIB4uyIbuDE9C2iAH9FKMc003F5CEcpP2eKsECkyVZ0VN"
+}
