@@ -1,4 +1,4 @@
 {
-  "mongoURI":"mongodb+srv://Xoom:setup@mernshopping.hcukg.mongodb.net/jwtAuth?retryWrites=true&w=majority",
+  "mongoURI":"mongodb+srv://username:password@databasename.hcukg.mongodb.net/collection?retryWrites=true&w=majority",
   "jwtSecret":"p66WeoneIPXlY9BmStjO5aRM7JIB4uyIbuDE9C2iAH9FKMc003F5CEcpP2eKsECkyVZ0VN"
 }
